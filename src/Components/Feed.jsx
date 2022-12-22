@@ -119,7 +119,7 @@ const Feed = () => {
                <Heading fontSize={'2xl'} fontWeight={500} fontFamily={'body'}>
                  Notice Card
                </Heading>
-               <Text color={'gray.500'}>{i.msg}r</Text>
+               <Text color={'gray.500'}>{i.msg}</Text>
              </Stack>
    
              <Stack direction={'row'} justify={'center'} spacing={6}>
